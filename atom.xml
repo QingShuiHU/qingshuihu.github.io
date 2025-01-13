@@ -3,11 +3,11 @@
   <title>Fomalhaut🥝</title>
   
   
-  <link href="https://github.com/QingShuiHU/blog/atom.xml" rel="self"/>
+  <link href="https://github.com/QingShuiHU/qingshuihu.github.io.git/atom.xml" rel="self"/>
   
-  <link href="https://github.com/QingShuiHU/blog/"/>
+  <link href="https://github.com/QingShuiHU/qingshuihu.github.io.git/"/>
   <updated>2022-10-23T14:00:00.000Z</updated>
-  <id>https://github.com/QingShuiHU/blog/</id>
+  <id>https://github.com/QingShuiHU/qingshuihu.github.io.git/</id>
   
   <author>
     <name>Fomalhaut🥝</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
-    <link href="https://github.com/QingShuiHU/blog/posts/2013454d.html"/>
-    <id>https://github.com/QingShuiHU/blog/posts/2013454d.html</id>
+    <link href="https://github.com/QingShuiHU/qingshuihu.github.io.git/posts/2013454d.html"/>
+    <id>https://github.com/QingShuiHU/qingshuihu.github.io.git/posts/2013454d.html</id>
     <published>2022-08-09T10:19:03.000Z</published>
     <updated>2022-10-23T14:00:00.000Z</updated>
     
@@ -30,12 +30,12 @@
     
     
     
-    <category term="演示" scheme="https://github.com/QingShuiHU/blog/categories/%E6%BC%94%E7%A4%BA/"/>
+    <category term="演示" scheme="https://github.com/QingShuiHU/qingshuihu.github.io.git/categories/%E6%BC%94%E7%A4%BA/"/>
     
     
-    <category term="Markdown" scheme="https://github.com/QingShuiHU/blog/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://github.com/QingShuiHU/qingshuihu.github.io.git/tags/Markdown/"/>
     
-    <category term="外挂标签" scheme="https://github.com/QingShuiHU/blog/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
+    <category term="外挂标签" scheme="https://github.com/QingShuiHU/qingshuihu.github.io.git/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
     
   </entry>
   
